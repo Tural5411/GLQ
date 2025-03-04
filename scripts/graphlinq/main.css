@@ -1,0 +1,26 @@
+.footer_body.add-ons_js-accordion-body {
+    display: none;
+}
+
+.add-ons_js-accordion-item.active .accordion-arrow {
+    transform: rotate(180deg);
+}
+
+
+.swiper {
+    overflow: visible;
+}
+
+.swiper-scrollbar {
+    display: none;
+}
+
+.checked {
+    justify-content: right;
+}
+
+@keyframes fill-progress {
+    to {
+        width: 100%;
+    }
+}
